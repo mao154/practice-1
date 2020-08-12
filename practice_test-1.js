@@ -1,6 +1,6 @@
 // 1090618
 a=100
-b=20000
+b=20000   
 function printMyName() {
     console.log('Stefano Balietti');
 }
